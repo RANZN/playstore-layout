@@ -1,0 +1,2 @@
+rootProject.name = "playstore layout"
+include ':app'
